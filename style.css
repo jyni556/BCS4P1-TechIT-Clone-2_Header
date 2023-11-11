@@ -113,11 +113,11 @@ button {
 
 .header-menu {
   display: flex;
-  gap: 36px;
+  gap: 37px;
 }
 
 .header-login {
-  font-size: 17px;
+  font-size: 18px;
   font-weight: 600;
   color: #737373;
 }
